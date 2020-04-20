@@ -19,7 +19,7 @@
 1. 下载项目
 	[点击下载最新项目包](https://codeload.github.com/Baninn/Auto.js-PCR-Autoscript/zip/master)
 
-2. 安装auto.js，在设置中开启`音量上键停止所有脚本`和`悬浮窗`
+2. 安装auto.js[4.1.1]，在设置中开启`音量上键停止所有脚本`和`悬浮窗`
 
 3. 将项目中的`js`文件和`img`文件夹放进`脚本`文件夹内
 
