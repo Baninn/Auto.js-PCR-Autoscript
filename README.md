@@ -19,15 +19,15 @@
 1. 下载项目
 	[点击下载最新项目包](https://codeload.github.com/Baninn/Auto.js-PCR-Autoscript/zip/master)
 
-2. 安装auto.js，在设置中开启`音量上键停止所有脚本`
+2. 安装auto.js，在设置中开启`音量上键停止所有脚本`和`悬浮窗`
 
-3. 将项目中的全部文件放置于手机存储
+3. 将项目中的`js`文件和`img`文件夹放进`脚本`文件夹内
 
 	默认目录 `/storage/emulated/0/脚本/`
 	
 4. 使用 `Auto.js` 运行 `*.js` 格式的脚本文件
 
-   打开悬浮窗，进入房间选择页面，开启脚本
+   打开悬浮窗，在WIN界面开启脚本
 
 **注意：该脚本仅在 小米6 MIUI 11 Android 9 测试通过**
 
