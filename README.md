@@ -17,7 +17,7 @@
 ### 使用说明
 
 1. 下载项目
-	[点击下载最新项目包](https://codeload.github.com/Baninn/Auto.js-Starlight-Autoscript/zip/master)
+	[点击下载最新项目包](https://codeload.github.com/Baninn/Auto.js-PCR-Autoscript/zip/master)
 
 2. 安装auto.js，在设置中开启`音量上键停止所有脚本`
 
@@ -29,8 +29,8 @@
 
    打开悬浮窗，进入房间选择页面，开启脚本
 
-**注意：该脚本仅在小米6 MIUI 11 Android 9 测试通过**
+**注意：该脚本仅在 小米6 MIUI 11 Android 9 测试通过**
 
-​			**理论上Android7.0以上16:9的1080P屏幕都可以使用**
+​			**理论上 Android 7.0 以上 16:9 的 1080P 屏幕都可以使用**
 
 欢迎提交更多需求及issue
