@@ -12,7 +12,7 @@ auto();
 requestScreenCapture();
 
 sleep(2000);
-xx = 800 + Math.round(Math.random() * 120);
+xx = 200 + Math.round(Math.random() * 120);
 yy = 900 + Math.round(Math.random() * 140);
 click(xx,yy);
 click(xx,yy);
